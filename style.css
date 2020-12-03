@@ -6,7 +6,18 @@
 
 
 .oimage{
-    min-height: 432px;
-    min-width: 768px;
+    min-height: 350px;
+    min-width: 450px;
     border: black;
+    
+
+}
+
+.uimage{
+    min-width: 250px;
+    min-height: 300px;
+}
+
+.thick-line{
+    
 }
