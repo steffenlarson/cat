@@ -5,3 +5,8 @@
 }
 
 
+.oimage{
+    min-height: 432px;
+    min-width: 768px;
+    border: black;
+}
