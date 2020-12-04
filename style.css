@@ -19,5 +19,7 @@
 }
 
 .thick-line{
+    min-height: 6px;
+    border: black;
     
 }
